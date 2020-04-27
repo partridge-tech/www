@@ -1,3 +1,5 @@
 this repo empty
 
-people can wait an extra second if they don't click straight to my website
+People can wait an extra second if they don't click straight to my website.
+
+If/when other people show up, this will be a directory.
