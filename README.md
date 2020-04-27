@@ -1,4 +1,4 @@
-this repo empty
+`this repo empty`
 
 People can wait an extra second if they don't click straight to my website.
 
