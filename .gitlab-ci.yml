@@ -1,0 +1,9 @@
+
+pages:
+  script:
+    - echo "YEET"
+  only:
+    - master
+  artifacts:
+    paths:
+    - public
